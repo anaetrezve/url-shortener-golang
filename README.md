@@ -13,6 +13,7 @@ Hexagonal Architecture used to create this simplete url shortener project
 - Redis
 - Message Pack
 - JSON
+- Chi (Go web framework)
 
 ### To Run
 
